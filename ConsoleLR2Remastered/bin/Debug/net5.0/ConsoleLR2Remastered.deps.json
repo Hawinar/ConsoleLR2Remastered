@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleLR2Remastered/1.0.0": {
+        "runtime": {
+          "ConsoleLR2Remastered.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleLR2Remastered/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

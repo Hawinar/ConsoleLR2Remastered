@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\bin\Debug\net5.0\ConsoleLR2Remastered.exe
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\bin\Debug\net5.0\ConsoleLR2Remastered.deps.json
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\bin\Debug\net5.0\ConsoleLR2Remastered.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\bin\Debug\net5.0\ConsoleLR2Remastered.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\bin\Debug\net5.0\ConsoleLR2Remastered.dll
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\bin\Debug\net5.0\ConsoleLR2Remastered.pdb
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.dll
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\refint\ConsoleLR2Remastered.dll
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.pdb
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ConsoleLR2Remastered.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleLR2Remastered\ConsoleLR2Remastered\obj\Debug\net5.0\ref\ConsoleLR2Remastered.dll
